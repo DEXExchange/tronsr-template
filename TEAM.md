@@ -1,7 +1,7 @@
 ## Founder
 
 Name: Kingdom Kendall
-Role: Owner / Founder
+Role: Founder
 
 ## Open Position:
 
