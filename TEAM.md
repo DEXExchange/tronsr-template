@@ -5,7 +5,7 @@ Role: Founder
 
 ## Open Position:
 
-Name: [DEVELOPER FOR HIRE] Email: support@dexechange.us to put in application inquiry and schedule firther communication.
+Name: [DEVELOPER FOR HIRE] Email: support@dexechange.us to put in application inquiry and schedule further communication.
 Role: [Backend Coding]
 
 ## Open Position:
