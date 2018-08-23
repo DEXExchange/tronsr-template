@@ -35,8 +35,10 @@ Begin P2P Trading On DEXExchange Twitter: https://twitter.com/dexexchange
 Further and future development capabilities include: 
 
 • Integration of Bitcoin BTC wallet functionality. 
+   
    -This allows direct TRX to BTC pairing through social media based trading. 
 • Integration of Ethereum ETH wallet functionality. 
+   
    -This allows ETH to TRX transferability for developers migrating projects from the EVM into the TVM and or general exchanging between ETH to TRX cryptocurrency.
    
 Executive Whitepaper Link: https://dexexchange.us/whitepaper
