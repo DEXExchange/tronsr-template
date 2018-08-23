@@ -11,4 +11,4 @@ Role: [Backend Coding]
 ## Team Member 2
 
 Name: [DEVELOPER FOR HIRE]
-Role: [Frontend Coding and is Axchange Tools]
+Role: [Frontend Coding and the Axchange Tools]
