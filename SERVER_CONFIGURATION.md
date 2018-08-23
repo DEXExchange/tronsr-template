@@ -26,9 +26,9 @@ Each individual hardware machine is running individual self sustaining cloud and
 
 Server location:
 
-Multiple IP's (IPs also may vary at times besides mainnet witness based node)
+Multiple IP's (IPs also may vary at times besides main-net witness based node)
 
-Bare metal server buildout is located in private undisclosed locations to ensure security always upon further developments of the witness node buildouts and exchange datas upon the in-house machines.
+Bare metal server buildout is located in private undisclosed locations to ensure security always upon further developments of the witness node build-outs and exchange datas upon the in-house machines.
 
 
 Further in-house exchange buildout overview of back end coding functionality:
