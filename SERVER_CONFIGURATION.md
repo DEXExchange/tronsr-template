@@ -22,16 +22,16 @@ Expansion plans:
 Multiple backup Apple Macintosh Mac Pro's for backup node runnings each with individual google cloud nodes built.
 In addition to verifying the node, multiple full nodes can also be provided, which can provide better API services to others. 
 
-Each individual hardware machine is running individual self sustaining cloud and or bare metal based nodes in house.
+Each individual hardware machine is running individual self sustaining cloud and or bare metal based nodes in-house.
 
 Server location:
 
 Multiple IP's (IPs also may vary at times besides mainnet witness based node)
 
-Bare metal server buildout is located in private undisclosed locations to ensure security always upon further developments of the witness node buildouts and exchange datas upon the in house machines.
+Bare metal server buildout is located in private undisclosed locations to ensure security always upon further developments of the witness node buildouts and exchange datas upon the in-house machines.
 
 
-Further inhouse exchange buildout overview of back end coding functionality:
+Further in-house exchange buildout overview of back end coding functionality:
 
 -Multicast data sending.
 -ReTransmitters to talk with and ask the matching engine and generator.
