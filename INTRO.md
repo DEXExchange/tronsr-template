@@ -41,4 +41,6 @@ Further and future development capabilities include:
    
    -This allows ETH to TRX transferability for developers migrating projects from the EVM into the TVM and or general exchanging between ETH to TRX cryptocurrency.
    
+Learn more and here the entire full length DEX Exchange and DEXCoin (XDEX) executive whitepaper here:
+
 Executive Whitepaper Link: https://dexexchange.us/whitepaper
