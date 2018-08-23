@@ -3,12 +3,12 @@
 Name: Kingdom Kendall
 Role: Owner / Founder
 
-## Team Member 1
+## Open Position:
 
 Name: [DEVELOPER FOR HIRE] Email: support@dexechange.us to put in application inquiry and schedule firther communication.
 Role: [Backend Coding]
 
-## Team Member 2
+## Open Position:
 
 Name: [DEVELOPER FOR HIRE]
-Role: [Frontend Coding and the Axchange Tools]
+Role: [Frontend Coding and backend coding of the exchange tools and UI (User Interface) design and functionality]
