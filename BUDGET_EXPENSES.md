@@ -10,7 +10,7 @@ Network and ecosystem upkeep: 5-10%, Including TRON Nodes.
 
 Community Funding: 50-55%
 
-*All transactions of the XDEX cryptocurrency and smart contract deployments and movements through the blockchain network will be utilized on the DEX Exchange. Utilizing TRON TRX as the transaction fuel for all network transactions and fees, covered by DEXCoin (XDEX) for a 50% discount of all trading fees. When enabled the DEXCoin (XDEX) in the fully built online echange serves to be used as a pairing utility and discount tool of the exchange.
+*All transactions of the XDEX cryptocurrency and smart contract deployments and movements through the blockchain network will be utilized on the DEX Exchange. Utilizing TRON TRX as the transaction fuel for all network transactions and fees, covered by DEXCoin (XDEX) for a 50% discount of all trading fees. When enabled the DEXCoin (XDEX) in the fully built online exchange serves to be used as a pairing utility and discount tool of the exchange.
 
 Block production rewards of needed percentages outside of continuous voters rewards, along with Pre ICO and ICO capital raising will be allocated to the maintenance and development of the fully running DEX Exchange, operating costs and legal fees/expenditures.
 
