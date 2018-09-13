@@ -1,6 +1,7 @@
 BUDGET EXPENSES:
 
 SR Block Production Awards Allocations:
+
 	-50% Of All SRC and SR Rewards Direct To Voters
 	-10% To Voters In The Form Of DEXCOIN (XDX) (Each XDX May Be Liquidated For A 		Return Of 1 TRX Per Each XDX Spent Back To DEX Exchange Foundation Via 			Telegram Community DEX Exchange Group: https://t.me/DEXCryptoExchange
 	-50% Remaining Rewards Are Allocated To Sponsoring Legitimate TRC20 Tokenized 		Projects To Succeed Further Listing Needs And Developments And To Witness Node Server 	Costs Of Runnings, Maintenance And Upkeep.
