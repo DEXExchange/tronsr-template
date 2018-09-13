@@ -18,13 +18,13 @@ SR candidate and block production rewards are issued out every beginning week on
 
 All Voters Must Remain In Voting Pool For Four(4) Six(6) Hour back to back periods week to week to recieve SR Voters Pool Rewards, that is then calculated and allocated out to all voters wallets.
 
-DEXCoin (XDEX)(XDX) mqy either be Hodled by long term investors, utilized for the launch of the DEX Exchange platform for enabling its utility function for 50% off all trading fees, or for utility use of easy transitions of DEXCoin to other cryptocurrency types with universal site-wide pairing to all such listed "cryptocurrency types". 
+DEXCOIN (XDX) mqy either be Hodled by long term investors, utilized for the launch of the DEX Exchange platform for enabling its utility function for 50% off all trading fees, or for utility use of easy transitions of DEXCoin to other cryptocurrency types with universal site-wide pairing to all such listed "cryptocurrency types". 
 
-Other receivers whom vote and receive the DEXCoin staking, may also short their holding position into the liquidation pool immediately for a 2:1 Ratio of TRX:XDEX return. So for every one DEXCoin you stake from voting, you may spend back to DEX Exchange on its online ecosystem, Twitter P2P (PeerToPeer) DEX Exchange, or the Telegram P2P (PeerToPeer) DEX Exchange for 2 TRX in return. 
+Other receivers whom vote and receive the DEXCoin staking, may also short their holding position into the liquidation pool immediately for a 1:1 Ratio of TRX:XDX return. So for every one DEXCOIN you stake from voting, you may spend back to DEX Exchange on its online ecosystem wallet address, Twitter P2P (PeerToPeer) DEX Exchange, or the Telegram P2P (PeerToPeer) DEX Exchange for 1 TRX in return. 
 
 All shorted/liquidated DEXCoin will be then be forever burned to ensure valuation stability and long term growth and success abilities and further potentials. "Burning the DEXCoin (XDEX)(XDX) lessens the total supply to then allow for increased longterm higher demand of the cryptocurrency".
 
-The DEXCoin (XDEX)(XDX) will be fully migrated from the beginning TRC20, 0 Decimal rate type, to a full smart contract finalized version launched upon the TRON Virtual Machine (TVM) through its remix deployment outlet. This smart contract version will carry a secure back end solidity coding with an 8 (eight)(0.00000000) decimal rating.
+The DEXCOIN (XDX) will be fully migrated from the beginning TRC20, 0 Decimal rate type, to a full smart contract finalized version launched upon the TRON Virtual Machine (TVM) through its remix deployment outlet. This smart contract version will carry a secure back end solidity coding with an 18 (eighteen)(0.000000000000000000) decimal rating.
 
 Community promotion efforts:
 
@@ -32,5 +32,5 @@ Cross platform marketing of social media accounts: Airdrop trading competition g
 
 
 Disclaimer: All Voters Must Complete Voter KYC Registration To Receive Daily TRX Rewards Due To Federal Laws and Regulations
-*KYC Registration Form At This Link: https://dexexchange.us/register-to-join-xdex-ico
+*KYC Registration Form At This Link: https://dexexchange.us/register-to-join
 
