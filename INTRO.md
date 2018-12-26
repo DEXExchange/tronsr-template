@@ -12,9 +12,11 @@ The second exchange section will be a full exchange including TRON (TRX) pairing
 
 We are pledging to gift 80% SR Candidate Block Rewards Allocated To You, The Community Of Voters in the form of DEXCoin (XDX) TRC10 Tokens.!
 
-Every Day Your TRX SR Voter Rewards Begin To Be Calculated & Then Allocated To Your Wallets!
+Every Week Your TRX SR Voter Rewards Begin To Be Calculated & Then Allocated To Your Wallets!
 
 The More You Hold Votes, The More TRX You Are Rewarded!
+
+--------
 
 EXECUTIVE SUMMARY
 
@@ -25,6 +27,8 @@ THE FUTURE OF DECENTRALIZED P2P (PeerToPeer) TRADING & EXCHANGING.
 Utilizing blockchain technology, decentralized abilities of trading cryptocurrencies within the Internet Of Things (IOT) paired with full "Peer To Peer" transparency, gives the ability of control of trading and exchanging cryptocurrencies on your own terms and only at your own comfortability before executing a full and finalized trade.
 
 The future innovation of true decentralized trading and exchanging is now here!
+
+--------
 
 Social Media Exchanging and Trading:
 
@@ -47,6 +51,8 @@ Further Current Telegram DEX Exchange Capabilities include:
 • Integration of Ethereum ETH wallet functionality. 
    
    -This allows ETH to TRX transferability for developers migrating projects from the EVM into the TVM and or general exchanging between ETH to TRX cryptocurrency.
+   
+   --------
    
 Learn more about the full entire full length DEX Exchange and its cryptocurrency tier system through the executive whitepaper here:
 
