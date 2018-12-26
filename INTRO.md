@@ -8,9 +8,9 @@ The DEXExchange Full Exchange Launch In 2019 At https://www.dexexchange.us will 
 
 One section exchange will be a full p2p DEX Exchange powered by a whitelabel DEX Exchange UI product interconnected with the TRONLINK plugin wallet. This is the "XDEX" Exchange.
 
-The second exchange section will be a full exchange including TRON (TRX) pairing with Bitcoin (BTC), Litecoin (LTC), Ethereum (ETH) and other legacy type cryptocurrencies. The DEXCOIN (XDX) will be fully paired with all cryptocurrencies as well. This full in-house exchange will track the progresses of TRC020 type cryptocurrencies trading on the DEX p2p exchange showing good stable liquidity and with sound project and team backing's will be migrated to further pair with TRON (TRX), Bitcoin (BTC) etc type cryptocurrencies. This full exchange is partnered and powered by the company Modulus whom is performing and hosting the exchange UI and backend server security. The Modulus technology allows for a full liquidity managment provision keeping the 24hour running order books always full and consistently accurrate to the global trading marketplace. Further technological advancements include, cold wallet storage, A.I. solutions capable of generating real-time decisions in less than 30 nanoseconds, 10 million transactions per second trade abilities that beats the transaction capabilities of Nasdaq and a wide variety of great trade tools, graphs, team technical support, atomics swaps and many more great and secure features to be explored!
+The second exchange section will be a full exchange including TRON (TRX) pairing with Bitcoin (BTC), Litecoin (LTC), Ethereum (ETH) and other legacy type cryptocurrencies. The DEXCOIN (DEX) TRC20 will be fully paired with all cryptocurrencies as well. This full in-house exchange will track the progresses of TRC10/20 type cryptocurrencies trading on the DEX p2p exchange showing good stable liquidity and with sound project and team backing's will be migrated to further pair with TRON (TRX), Bitcoin (BTC) etc type cryptocurrencies. This full exchange is partnered and powered by the company Modulus whom is performing and hosting the exchange UI and backend server security. The Modulus technology allows for a full liquidity managment provision keeping the 24hour running order books always full and consistently accurrate to the global trading marketplace. Further technological advancements include, cold wallet storage, A.I. solutions capable of generating real-time decisions in less than 30 nanoseconds, 10 million transactions per second trade abilities that beats the transaction capabilities of Nasdaq and a wide variety of great trade tools, graphs, team technical support, atomics swaps and many more great and secure features to be explored!
 
-We are pledging to gift 60% SR Candidate Block Rewards Allocated To You, The Community Of Voters!
+We are pledging to gift 80% SR Candidate Block Rewards Allocated To You, The Community Of Voters in the form of DEXCoin (XDX) TRC10 Tokens.!
 
 Every Day Your TRX SR Voter Rewards Begin To Be Calculated & Then Allocated To Your Wallets!
 
@@ -32,7 +32,7 @@ DEX Exchange Cryptocurrency Trading On Telegram and Twitter!
 
 DEX Exchange is in support and endorsing the GoSeedit technology and payment platform solution.
 
-Through GoSeedIt's technology paired to the TRON blockchain upon which GoSeedit functions, full P2P trading and exchanging of TRX and TRON MainNet blockchain TRC20 types is now fully transparent and in ability to trade directly through your Telegram and Twitter verified accounts, furthering the implementation of a new era of decentralization and cryptocurrency to its fullest capability.
+Through GoSeedIt's technology paired to the TRON blockchain upon which GoSeedit functions, full P2P trading and exchanging of TRX and TRON MainNet blockchain TRC10 types is now fully transparent and in ability to trade directly through your Telegram and Twitter verified accounts, furthering the implementation of a new era of decentralization and cryptocurrency to its fullest capability.
 
 Begin P2P Trading On DexExchange Telegram: https://t.me/DEXCryptoExchange
 
@@ -48,6 +48,6 @@ Further Current Telegram DEX Exchange Capabilities include:
    
    -This allows ETH to TRX transferability for developers migrating projects from the EVM into the TVM and or general exchanging between ETH to TRX cryptocurrency.
    
-Learn more and here the entire full length DEX Exchange and DEXCoin (XDX) executive whitepaper here:
+Learn more about the full entire full length DEX Exchange and its cryptocurrency tier system through the executive whitepaper here:
 
 Executive Whitepaper Link: https://dexexchange.us/whitepaper
