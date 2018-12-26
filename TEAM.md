@@ -1,6 +1,6 @@
 ## Founder
 
-Name: Kingdom Kendall
+Name: Kin Kendall
 Role: Founder
 
 ## Open Position:
