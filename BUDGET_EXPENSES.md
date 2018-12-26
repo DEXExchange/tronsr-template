@@ -6,7 +6,7 @@ SR Block Production Awards Allocations:
 -Reward Allocated In The Form Of DEXCoin (XDX) 
 	
 (Each XDX May Be Liquidated At https://www.TronScan.org 
--50% Remaining Rewards Are Allocated To Sponsoring Legitimate TRC20 Tokenized Projects To Succeed Further Listing Needs And To Developments Needed To Witness Node Server Costs Of Runnings, Maintenance And Upkeep.
+-20% Remaining Rewards Are Allocated To Sponsoring Legitimate TRC10/20 Tokenized Projects To Succeed Further Listing Needs And To Developments Needed To Witness Node Server Costs Of Runnings, Maintenance And Upkeep.
 
 Direct ICO Capital Distribution Outline:
 	-25% Development Expenses
