@@ -1,5 +1,9 @@
 Server configuration:
 
+Cloud Based Node Instances.
+
+Scaling Roadmap:
+
 Java8 until Java9 is stable: Ubuntu 16.04, 8 Core/12/32 Core/ 50gb to 1Tb, Http: Oddyssey-v2.0.8.1(Upgrades Stay Consistent).
 Config File stays consistently updated accordingly to TRON Protocol.
 
@@ -9,11 +13,11 @@ Processing powers: 8 core 3.9ghz each, equalling 64 core. Upscale of each Pro ma
 
 PLANS FOR HARDWARE EXPANSION
 
-All hardwares are Apple Macintosh based Mac Pro's all with 7 teraflops of computing power and 12gb GDDR5 VRams, Thermal Cores, and 802.11ac wi-fi connection capabilities. 
+All hardwares to be maintainted as Apple Macintosh based Mac Pro's all with 7 teraflops of computing power and 12gb GDDR5 VRams, Thermal Cores, and 802.11ac wi-fi connection capabilities. 
 
 Processing powers: 8/12/32 core 3.9ghz each.
 
-Internet network speeds are at the highest peak performance that is currently allowable through business internet speed buildout and access.
+Internet network speeds to be networked at the highest peak performance that is currently allowable through business internet speed buildout and access.
 
 Dual-system backup, which is a factor of stability and data security performance.
 
